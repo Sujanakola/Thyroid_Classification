@@ -71,5 +71,3 @@ The result will be one of the following:
 2. Run the app.py on Spider IDE.
 3. Copy the output url and paste it in the browser to get the output.
 
-# SCREENSHOTS
-
